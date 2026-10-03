@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>CV Nurul Amana</title>
+<style>
+body{font-family:Arial,sans-serif;max-width:800px;margin:40px auto;padding:0 24px;line-height:1.5;color:#111}
+h1{text-align:center;font-size:28px;margin-bottom:4px}
+.contact{text-align:center;font-size:14px}
+h2{font-size:16px;border-bottom:1px solid #222;padding-bottom:4px;margin-top:24px}
+h3{font-size:15px;margin-bottom:2px}
+ul{margin-top:4px}
+</style>
+</head>
+<body>
+
+<h1>NURUL AMANA</h1>
+<div class="contact">Poris Jaya, Tangerang, Banten | 081915567372</div>
+<div class="contact">Fresh Graduate SMK | TKJ/TJKT</div>
+
+<h2>PROFIL</h2>
+<p>Fresh graduate SMK Negeri 1 Hulu Sungkai jurusan TJKT dengan pengalaman PKL di PT Telkom Indonesia cabang Kotabumi serta pengalaman organisasi di sekolah dan Pramuka. Memiliki kemampuan komunikasi yang baik dan mampu menggunakan Microsoft Office Word, Excel, dan PowerPoint. Siap belajar, bekerja sama dalam tim, dan menjalankan tugas sesuai arahan.</p>
+
+<h2>PENDIDIKAN</h2>
+<h3>SMK Negeri 1 Hulu Sungkai — Jurusan TKJ/TJKT</h3>
+<p>Lulus 2026 | Rata-rata ijazah: 86,46 | Peringkat 1</p>
+
+<h2>PENGALAMAN</h2>
+<h3>PT Telkom Indonesia Cabang Kotabumi — Praktik Kerja Lapangan (PKL)</h3>
+<p>Administrasi dan pendukung kegiatan provisioning jaringan | 4 bulan</p>
+<ul>
+<li>Membuat bon material untuk teknisi provisioning.</li>
+<li>Mengelola Berita Acara (BA) digital.</li>
+<li>Menginput data PS teknisi provisioning.</li>
+<li>Memeriksa DC berdasarkan titik koordinat pelanggan dan titik koordinat ODP.</li>
+<li>Melakukan rekonsiliasi material bersama gudang WH.</li>
+<li>Membantu proses OSOM bulanan dan VALINS.</li>
+<li>Menginput data penyelesaian pekerjaan ke sistem database Telkom.</li>
+</ul>
+
+<h3>Membantu Usaha Warung Sembako Keluarga</h3>
+<ul>
+<li>Melayani pelanggan dan membantu kebutuhan operasional warung.</li>
+<li>Membantu menata dan mengecek barang dagangan.</li>
+</ul>
+
+<h2>PENGALAMAN ORGANISASI</h2>
+<h3>OSIS — SMK Negeri 1 Hulu Sungkai</h3>
+<p>Wakil Ketua | 2023–2024<br>Sekretaris | 2024–2025</p>
+
+<h3>DKR Pramuka — SMK Negeri 1 Hulu Sungkai</h3>
+<p>Wakil Ketua | 2024–2026<br>Mendampingi ketua DKR dalam kegiatan organisasi.</p>
+
+<h2>SERTIFIKAT</h2>
+<ul>
+<li>Sertifikat Praktik Kerja Lapangan (PKL) — PT Telkom Indonesia</li>
+<li>Sertifikat Uji Kompetensi Keahlian (UKK) — TKJ/TJKT</li>
+<li>Sertifikat Kursus Komputer</li>
+<li>Sertifikat Juara 3 Lomba Dai</li>
+</ul>
+
+<h2>KEAHLIAN</h2>
+<ul>
+<li>Komunikasi</li>
+<li>Microsoft Word</li>
+<li>Microsoft Excel</li>
+<li>Microsoft PowerPoint</li>
+</ul>
+
+<h2>INFORMASI TAMBAHAN</h2>
+<p>Bersedia belajar hal baru dan mengikuti aturan serta jadwal kerja yang ditetapkan perusahaan.</p>
+
+</body>
+  </html>
